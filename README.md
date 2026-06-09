@@ -18,6 +18,23 @@ Installation is simple: the components are mounted using just a few screws, maki
 
 By cleverly incorporating the humidity and temperature sensor at the outlet, this is a safe modification to any 3d printer, without the risk of excessive burning. 
 
+6/6/2026
+Started the project, goal was to convert the space pi into a usable chamber heater
+Thoughts: Make the Space pi adapt into the chamber of a printer seamlessly. Display will be connected to the PCB, with clean wiring secured with zip ties along the path.
+<img width="214" height="226" alt="image" src="https://github.com/user-attachments/assets/f3237499-74bf-4952-b65a-a63a62775372" />
+
+6/7/2026
+Got a friend to help me measure his PCB's. We are working towards getting dimensions for all the parts, so we can implement them into the CAD and standoff mounts. This took some time because of uneven places.
+<img width="1187" height="1072" alt="image" src="https://github.com/user-attachments/assets/4f2da8ef-71be-4b0f-a456-d37055212dd0" />
+
+6/8/2026
+CAD for the main base is done, with the standoff mounts and dimensions done thanks to my friend who measured everything. Took a while to cad because of the many dimensions.
+<img width="691" height="985" alt="image" src="https://github.com/user-attachments/assets/588ed8fe-2145-4dec-967d-1163b615cd1d" />
+Added in the other parts, which will hide the PCB and make the screen more tidier.
+Bottom also has standoffs for no poke pcb mounting.
+<img width="1089" height="759" alt="image" src="https://github.com/user-attachments/assets/d607a035-1b2b-4dce-859d-58e5a748940c" />
+<img width="799" height="742" alt="image" src="https://github.com/user-attachments/assets/37139a43-d816-4f27-aed5-2f3e916758b2" />
+
 BOM:
 1x Creality Space Pi heater/filament dryer
 1x PET-GF15% Roll of filament to withstand the heat temperatures.
