@@ -1,6 +1,8 @@
 # Universal-Chamber-Heater-for-printers
 A chamber heater for printing high temperature materials. Get toasty!
 Part of Hack Club's Macondo Program. Notice: Use this modification at your own risk.
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/58e94e69-be47-44eb-b19d-d8f5a3fbf808" />
+
 
 <img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/d492af81-64c1-4820-9c72-0d385d32ca70" />
 Above, you can see ths final finished CAD product.
