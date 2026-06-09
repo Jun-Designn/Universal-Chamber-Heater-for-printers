@@ -34,6 +34,9 @@ Added in the other parts, which will hide the PCB and make the screen more tidie
 Bottom also has standoffs for no poke pcb mounting.
 <img width="1089" height="759" alt="image" src="https://github.com/user-attachments/assets/d607a035-1b2b-4dce-859d-58e5a748940c" />
 <img width="799" height="742" alt="image" src="https://github.com/user-attachments/assets/37139a43-d816-4f27-aed5-2f3e916758b2" />
+Added a power button, which can have adhesive applied on the back side of it, this will allow the user to switch the power button on and off.
+<img width="532" height="468" alt="image" src="https://github.com/user-attachments/assets/8a9d0bab-1f0c-4156-856a-e1ece3d42bb2" />
+
 
 BOM:
 1x Creality Space Pi heater/filament dryer
