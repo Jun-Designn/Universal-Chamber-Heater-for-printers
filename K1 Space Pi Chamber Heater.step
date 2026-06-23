@@ -9,7 +9,7 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'K1 Space Pi Chamber Heater.step',
+/* name */ 'STEP FILES', 'K1 Space Pi Chamber Heater.step',
 /* time_stamp */ '2026-06-23T11:11:23-07:00',
 /* author */ (''),
 /* organization */ (''),
