@@ -1,8 +1,12 @@
 # Universal-Chamber-Heater-for-printers
 A chamber heater for printing high temperature materials. Get toasty!
 Part of Hack Club's Macondo Program. Notice: Use this modification at your own risk.
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/58e94e69-be47-44eb-b19d-d8f5a3fbf808" />
 
+BOM:
+1x Creality Space Pi heater/filament dryer
+6x M3x12mm socket head cap screws
+4x M2.5x12mm Socket Head Cap Screws
+2x M5x 8mm Socket Head Cap Screws
 
 <img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/d492af81-64c1-4820-9c72-0d385d32ca70" />
 Above, you can see ths final finished CAD product.
@@ -38,12 +42,3 @@ Bottom also has standoffs for no poke pcb mounting.
 <img width="799" height="742" alt="image" src="https://github.com/user-attachments/assets/37139a43-d816-4f27-aed5-2f3e916758b2" />
 Added a power button, which can have adhesive applied on the back side of it, this will allow the user to switch the power button on and off.
 <img width="532" height="468" alt="image" src="https://github.com/user-attachments/assets/8a9d0bab-1f0c-4156-856a-e1ece3d42bb2" />
-
-
-BOM:
-1x Creality Space Pi heater/filament dryer
-1x PET-GF15% Roll of filament to withstand the heat temperatures.
-6x M3x12mm socket head cap screws
-4x M2.5x12mm Socket Head Cap Screws
-2x M5x 8mm Socket Head Cap Screws
-1x Wrench Set
